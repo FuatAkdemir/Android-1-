@@ -5,7 +5,7 @@
 - Sınav + Tanışma
 
 ## 2. Hafta
-###30.09.2019
+### 30.09.2019
 - Layout'lar
 - - Relative
 - - Constraint 
