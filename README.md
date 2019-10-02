@@ -12,6 +12,7 @@
 - - Linear
 
 ### 02.10.2019
+- Metotlar
 - - onCreate: actility sayfamızın üretilmesi esnasında kullanacağımız özel bir metottur. Bu metot olmazsa Activity sayfası üretilemez. OnCreate metotu kodların yazılacağı ana metottur. OnCreate metodu sayesinde .java uzantılı sayfamızı, .xml uzantılı arayüz sayfalarına SentView() metodu sayesinde bağlanıp Activity üretmiş oluruz. Değişken üretmek, bir değişkene varsayılan değer atamak onCreate metodu zamanında ... tanımlamaları yine onCreate metodu içerisinde gerçekleşir. Bir buton üretmek, üretilen butonu tıklama olayını yazmak onCreate içerisinde tanımlanmak zorundadır. Activity sınıfı üretildiği zaman, 1 defa çalışır (uygulama açıkken).
 
 - - onRestart: Activity sayfasını yeniden başlatmak için kullanılır. Uygulama sayfasının tekrar başlatılma zamanıdır. 
