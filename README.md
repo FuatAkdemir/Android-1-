@@ -43,8 +43,24 @@
 - - R.style:
 - - R.styleable:
 
+-res Klasörünün Önemi:
+- - res klasörü altındaki tüm kalsör isimleriözeldir. 
+- - - Klasörler altındaki 
 
-
+Özel Res Klasörleri:
+- - anim
+- - animator
+- - color: uygulamanın içerisinde bulunan renk tanımlamalarının yapılabileceği klasördür.
+- - drawable: Çizim dosyaları bulundurabilen klasördür. İçerisinde .png, .jpg, .xml (vektörel çizim dosyası) gönderilebilir. Uygulama içerisindeki resim dosyalarının saklanabileceği özel bir klasördür. 
+- - font
+- - interpolator
+- - layout: .xml uzantılı layout dosyaları bu klasör altında saklayabiliriz. Uygulama UI Design (arayüz tasarımı) ile alakalı işlemleri burada saklayabiliriz.
+- - menu: Menu dosyaları üretebilmek için kullanılır. .xml uzantılı dosyaları burada saklayabiliriz.  
+- - mipmap: Uygulama ikonlarının saklanmış olduğu özel klasördür. 
+- - navigation:
+- - raw: .mp4, .mp3, wav gibi ses ve video içerikli dosyaların uygulama içerisinde saklanabileceği klasördür.
+- - values: strings.xml (uygulama içindeki metin dosyalarının saklandığı ifadeler. Değişken gibi tanımlanır.), color.xml(app renkleri) styles.xml(android app temaları - dark vs -) gibi özel klasörleri barındırır.
+- - transition: Sayfa geçiş animasyonlarının tanımlanabileceği özel bir klasördür.
 
 
 
