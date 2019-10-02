@@ -27,4 +27,30 @@
 
 - - onDestroy: Activity sayfasını kapatılmadan önce son olarak gidebileceğimiz özel bir metottur. Bir sayfa kapatılmadan önce yapılması gereken özel bir metottur. onDestroy metodunu çalıştırabilmek için geri git butonunu ya da finish() metotunu tetiklemek yeterlidir.
 
+- Uygulama Kaynakları
+- - R: Resource'un kısatmasıdır. 
+- - R.id: 
+- - R.anim:
+- - R.attr:
+- - R.bool:
+- - R.color:
+- - R.dimen:
+- - R.drawable:
+- - R.integer:
+- - R.layout:
+- - R.mipmap:
+- - R.string:
+- - R.style:
+- - R.styleable:
+
+
+
+
+
+
+
+
+
+
+
 
