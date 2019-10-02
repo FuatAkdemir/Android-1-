@@ -2,12 +2,12 @@
 
 ## 1. Hafta
 ### 23.09.2019
+-Sınav + Tanışma
 
-- fthf
-
---fh f
-
-gfh-ghfhg-
-02.10.2019
-
+## 2. Hafta
+###30.09.2019
+- Layout'lar
+- - Relative
+- - Constraint 
+- - Linear
 
