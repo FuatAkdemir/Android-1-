@@ -62,7 +62,8 @@
 - - values: strings.xml (uygulama içindeki metin dosyalarının saklandığı ifadeler. Değişken gibi tanımlanır.), color.xml(app renkleri) styles.xml(android app temaları - dark vs -) gibi özel klasörleri barındırır.
 - - transition: Sayfa geçiş animasyonlarının tanımlanabileceği özel bir klasördür.
 
-
+## 3. Hafta
+### 10.07.2019
 
 
 
