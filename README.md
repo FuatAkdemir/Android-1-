@@ -63,11 +63,13 @@
 - - transition: Sayfa geçiş animasyonlarının tanımlanabileceği özel bir klasördür.
 
 ## 3. Hafta
-### 10.07.2019
+### 07.10.2019
+- Sayaç örneği
 
-
-
-
+### 08.10.2019
+- Farklı buton kullanımları
+- WebView kullanımı
+- ScroolView kullanımı (Programatik olarak nesne üretme)
 
 
 
