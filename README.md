@@ -71,5 +71,17 @@
 - WebView kullanımı
 - ScroolView kullanımı (Programatik olarak nesne üretme)
 
+### 09.10.2019
+- Adapter Sınıfını Kullanan Nesneler (aşağıdakiler tek başlarına kullanılamazlar)
+-- Spinner: Array adapter, base adapter
+-- AutoCompleteTextView: Array adapter, base adapter
+-- MultiAutoCompleteTextView: Array adapter, base adapter
+-- ListView: Array adapter, base adapter
+-- GridView: Array adapter, base adapter
+-- RecycleView: En zengin adapter sınıfıdır. Kendine has bir adapter'ı vardır.
+
+
+
+
 
 
