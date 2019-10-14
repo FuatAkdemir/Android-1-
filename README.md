@@ -80,6 +80,11 @@
 -- GridView: Array adapter, base adapter
 -- RecycleView: En zengin adapter sınıfıdır. Kendine has bir adapter'ı vardır.
 
+## 4. Hafta
+### 14.10.2019
+- Intent'ler
+- Intent ve Image'lar
+- Menü oluşturma
 
 
 
