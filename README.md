@@ -86,6 +86,12 @@
 - Intent ve Image'lar
 - Menü oluşturma
 
+### 15.10.2019
+- Farklı Intent Kullanımları
+- https://serifgungor.com/uploads/pdf/Mobil_Optimizasyon_ve_Responsive_Design.pdf
+- StartActivityForResult örnekleri
+
+
 
 
 
