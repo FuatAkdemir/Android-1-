@@ -102,6 +102,13 @@
 -- 7) getCount, getItemId, getView metotlarını doldur.
 -- 8) return'lerin içini düzelt.
 
+- SharedPreferences Kullanımı Örneği
+-- Web'deki session - cockie mantığının mobil hali. Örneğin login ekranında kullanıcının mail adresini vs hafızaya kaydetmek için kullanılır.
+-- Temel veri yapıları (string, boolean, int vs) hafızaya kaydedebiliyor. Ama boyutu çok olamaz. Mesela string ise bir makale ekleyemeyiz. Bazı durumlarda intent'lerle veri taşımak mantıksız olabilir. Örneğin A -> B -> C sayfalarında intentle veri taşımak mantıksızdır. A'dan direkt C'ye verileri Sharedpreferences ile taşıyabiliriz.
+-- Uygulamayı kapatıp açtığımızda hafızada kalır. Hafızadan silmek için ya uygulamayı silmek ya da ön belleği temizlemek gerekir.
+-- Sharedpreferences örneğin bir uygulamayı ilk kurduğumuzda tanıtım ekranı getirmek için kullanılabilir. Skip ile atlayıp daha sonra "bir daha gösterme" seçeneği ile false'a çekebiliriz.
+-- key - value şeklinde çalışır.
+
 
 
 
