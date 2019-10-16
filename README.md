@@ -91,6 +91,17 @@
 - https://serifgungor.com/uploads/pdf/Mobil_Optimizasyon_ve_Responsive_Design.pdf
 - StartActivityForResult örnekleri
 
+### 16.10.2019
+- CustomListView Örneği
+-- 1) İlgili Activity layout'unda listView üret ve referansları tanıt, eşle.
+-- 2) İlgili satır dosyasının layout'unu üret (resim, başlık, yazı).
+-- 3) Model sınıfını üret (Kapsülleme işlemi)
+-- 4) BaseAdapter sınıfını üret
+-- 5) BaseAdapter sınıfına context, LayoutInslater ve ArrayList nesneleri üret
+-- 6) BaseAdapter için boş ve dolu construct üret
+-- 7) getCount, getItemId, getView metotlarını doldur.
+-- 8) return'lerin içini düzelt.
+
 
 
 
