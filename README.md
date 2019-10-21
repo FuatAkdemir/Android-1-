@@ -109,7 +109,10 @@
 -- Sharedpreferences örneğin bir uygulamayı ilk kurduğumuzda tanıtım ekranı getirmek için kullanılabilir. Skip ile atlayıp daha sonra "bir daha gösterme" seçeneği ile false'a çekebiliriz.
 -- key - value şeklinde çalışır.
 
-
+## 5. Hafta
+### 21.10.2019
+Fıkra Örneği
+- SplashActivity
 
 
 
